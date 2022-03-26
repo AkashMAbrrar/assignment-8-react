@@ -4,7 +4,7 @@
         "name": "Supper Sonic Watch",
         "price": "1200",
         "brand": "guatza",
-        "img": "https://thumbs.dreamstime.com/z/smart-watches-apple-watch-gold-black-white-two-similar-to-mm-space-gray-aluminum-arranged-side-top-view-background-139358512.jpg"
+        "img": "https://www.shopz.com.bd/wp-content/uploads/2021/03/T500-Plus-Smart-Watch-2.jpg"
     },
     {
         "id": "123gjh-52-dgg-12d-3",
@@ -68,5 +68,19 @@
         "price": "1170",
         "brand": "Apple",
         "img": "https://imageio.forbes.com/specials-images/imageserve/5ef4d8d44f07530006d4e142/The-new-Chronograph-Apple-Watch-face-/960x0.jpg?fit=bounds&format=jpg&width=960"
+    },
+    {
+        "id": "BAN-5-71-ff3-563-gt23",
+        "name": "Wrist-both",
+        "price": "3650",
+        "brand": "Apple",
+        "img": "https://eponno.com.bd/wp-content/uploads/2020/03/3f6d316ba8c5-microwear-w34-smartwatch.jpg"
+    },
+    {
+        "id": "fgs1-465-71-ff3-563-kpop-56",
+        "name": "Wrist-both",
+        "price": "3150",
+        "brand": "samsung",
+        "img": "https://dtt1c9id3txwq.cloudfront.net/assets/images/000/688/917/original/61HwyzarwWL._SX679_.jpg"
     }
 ]
