@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from 'react';
+import Cart from '../Cart/Cart';
 import Product from '../Product/Product';
 import './Market.css';
 
 const Market = () => {
     const [products, setProducts] = useState([]);
-
     const [cart, setCart] = useState([]);
 
     useEffect(() => {
@@ -14,7 +14,6 @@ const Market = () => {
     }, []);
 
     const addHandleClick = (product) => {
-        console.log(product)
         const newCart = [...cart, product];
         setCart(newCart);
     }
@@ -32,8 +31,9 @@ const Market = () => {
                 }
             </div>
             <div className="cart-container">
-                <h3>Product Summary</h3>
-                <p>Product count: {cart.length}</p>
+                <Cart
+                    cart={cart}
+                ></Cart>
             </div>
         </div>
     );
