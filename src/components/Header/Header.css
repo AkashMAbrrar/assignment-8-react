@@ -1,6 +1,8 @@
 .header {
     color: darkred;
    text-align: center;
+   border: 5px solid rgb(240, 210, 210);
+   background-color: antiquewhite;
 }
 .header span{
    color: darkolivegreen;

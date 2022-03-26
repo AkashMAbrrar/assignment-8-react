@@ -1,11 +1,15 @@
 import './App.css';
 import Header from './components/Header/Header';
+import Market from './components/Market/Market';
 
 function App() {
   return (
-    <div className='header'>
+    <div>
       <Header></Header>
+      <Market></Market>
     </div>
+
+
   );
 }
 
