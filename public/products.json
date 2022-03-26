@@ -1,0 +1,72 @@
+[
+    {
+        "id": "ftg4556-25-asdf",
+        "name": "Supper Sonic Watch",
+        "price": "1200",
+        "brand": "guatza",
+        "img": "https://thumbs.dreamstime.com/z/smart-watches-apple-watch-gold-black-white-two-similar-to-mm-space-gray-aluminum-arranged-side-top-view-background-139358512.jpg"
+    },
+    {
+        "id": "123gjh-52-dgg-12d-3",
+        "name": "Smart-Apple",
+        "price": "1500",
+        "brand": "Apple",
+        "img": "https://media.istockphoto.com/photos/apple-watch-sport-42mm-silver-aluminum-case-with-white-band-picture-id496730484?k=20&m=496730484&s=612x612&w=0&h=uWoESqN4MdfkkwwDCU66XAksagvbPD9FnWKNHl7xSwU="
+    },
+    {
+        "id": "152-52-kgb-putin-3",
+        "name": "Rock-Apple",
+        "price": "2000",
+        "brand": "Apple",
+        "img": "https://target.scene7.com/is/image/Target/GUEST_96194caa-c8c9-4d0a-91b4-5a9fb7c9f457?wid=488&hei=488&fmt=pjpeg"
+    },
+    {
+        "id": "56g-52-kgb-russ-23-ad",
+        "name": "Rock-&_Roll",
+        "price": "1800",
+        "brand": "Rolex",
+        "img": "https://www.mytrendyphone.eu/images/Enkay-3D-Full-Cover-Tempered-Glass-Screen-Protector-for-Apple-Watch-Series-7-41mm-2-Pcs-23092021-01-p.jpg"
+    },
+    {
+        "id": "5k-451-cia-vlad-582",
+        "name": "Time-%-Travel",
+        "price": "1750",
+        "brand": "Niddle",
+        "img": "https://assets.hermes.com/is/image/hermesproduct/space-black-series-6-case-band-apple-watch-hermes-single-tour-40mmjumping--applewatch-0005761%2089_composite_8-0006041%20AA_composite_8-300-0-600-600_b.jpg"
+    },
+    {
+        "id": "meta-5642-gld-14-k20",
+        "name": "Timer-Happy",
+        "price": "1780",
+        "brand": "Starry-Night",
+        "img": "https://assets.hermes.com/is/image/hermesproduct/band-apple-watch-hermes-double-tour-44mm--078792CY89-back-2-300-0-600-600_b.jpg"
+    },
+    {
+        "id": "t20-mac-531-3ehg",
+        "name": "Time-Mac",
+        "price": "3200",
+        "brand": "Rolex",
+        "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/42-alu-silver-sport-white-nc-s3-grid?wid=540&hei=550&fmt=jpeg&qlt=80&.v=1594259786000"
+    },
+    {
+        "id": "kop-362-loc-321",
+        "name": "Timer%-Easy",
+        "price": "1250",
+        "brand": "Walmart",
+        "img": "https://images.yaoota.com/fUsmeOeVq29VsRxggsqHe126HXc=/trim/yaootaweb-production-ng/media/crawledproductimages/b3557bc0f3347e6be1c4e5e4de2263d02d74a69f.jpg"
+    },
+    {
+        "id": "kop-541f-l5c-mc1",
+        "name": "Easy-Day",
+        "price": "1170",
+        "brand": "Niddle",
+        "img": "https://www.apple.com/newsroom/images/product/watch/standard/Apple_watch-series-6-stainless-steel-case-gmt-watchface_09152020_carousel.jpg.large.jpg"
+    },
+    {
+        "id": "BAN-5-71-ff3-54pk",
+        "name": "Wist-Watch-both",
+        "price": "1170",
+        "brand": "Apple",
+        "img": "https://imageio.forbes.com/specials-images/imageserve/5ef4d8d44f07530006d4e142/The-new-Chronograph-Apple-Watch-face-/960x0.jpg?fit=bounds&format=jpg&width=960"
+    }
+]
