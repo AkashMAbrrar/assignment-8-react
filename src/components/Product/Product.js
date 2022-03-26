@@ -20,6 +20,7 @@ const Product = ({ product, addHandleClick }) => {
                 <FontAwesomeIcon icon={faShoppingCart}></FontAwesomeIcon>
             </button>
         </div>
+
     );
 };
 

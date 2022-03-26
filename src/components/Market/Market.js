@@ -17,6 +17,9 @@ const Market = () => {
         const newCart = [...cart, product];
         setCart(newCart);
     }
+    const removeItem = () => {
+        setCart([])
+    }
 
     return (
         <div className='market-container'>
@@ -26,14 +29,20 @@ const Market = () => {
                         product={product}
                         addHandleClick={addHandleClick}
                         key={product.id}
-
                     ></Product>)
                 }
             </div>
             <div className="cart-container">
+
+
                 <Cart
                     cart={cart}
+                    removeItem={removeItem}
                 ></Cart>
+
+                {/* <Cart
+                    cart={cart}
+                ></Cart> */}
             </div>
         </div>
     );
