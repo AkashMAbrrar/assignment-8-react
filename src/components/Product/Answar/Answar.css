@@ -1,0 +1,25 @@
+.ans-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 40px;
+    align-items: center;
+}
+.ans-container div{
+    margin-left: 5px;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: antiquewhite;
+}
+@media screen and (max-width:700px) {
+    .ans-container{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .ans-tow{
+        margin-top:10px ;
+        border-radius: 8px;
+    }
+     .ans-one{
+        border-radius: 8px;
+    }
+}
